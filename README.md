@@ -1,7 +1,7 @@
 <h1 align="center">
   <br>
   <!--a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a-->
-  <a href="#"><img src="https://github.com/papa-boynton/ToolTipster-TheyCallMePapa/blob/main/Images/lighbulb.png" alt="Logo" width="200"></a>
+  <a href="#"><img src="Images/lighbulb.png" alt="Logo" width="200"></a>
   <br>
   ToolTipster - TheyCallMePapa
   <br>
