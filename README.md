@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src="Images/Logo.png" alt="Logo" width="200"></a>
+  <a href="#"><img src="Images/Logo (2).png" alt="Logo" width="200"></a>
   <br>
   ToolTipster
   <br>
