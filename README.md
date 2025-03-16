@@ -32,7 +32,7 @@ Search the Internet with your choice of five search sites. Based on original cod
 Install and activate the app.  Left click, choose search provider.  Select inputbox and type search.
 
 ## Download
-[Droptop Four Community Apps](https://droptopfour.com/community-apps/)
+[Droptop Four Community Apps](https://droptopfour.com/community-apps?id=27)
 
 ## Credits
 Written by [TheyCallMePapa](https://github.com/papa-boynton)
